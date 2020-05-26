@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 arquivo modificado no ramo master
-=======
 mesmo código
->>>>>>> teste
